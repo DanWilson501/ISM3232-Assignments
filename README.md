@@ -7,3 +7,7 @@ This repository will contain class assignments as listed below:
 ### Code Challenge #1 - GitHub Repository Created
 ### Code Challenge #2 - Calculator
 ### Code Challenge #3 - Car
+
+## Local Development
+
+1. Open index.html in your browser.
