@@ -11,3 +11,4 @@ This repository will contain class assignments as listed below:
 ## Local Development
 
 1. Open index.html in your browser.
+2. have fun
