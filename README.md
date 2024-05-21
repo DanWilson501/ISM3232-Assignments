@@ -1,8 +1,8 @@
 # ISM3232-Assignments
 Business Application Development
 
-Some description!
+This repository will contain class assignments as listed below:
 
-## Subheader
-
-Watch tutorial on YouTube.
+## Class Code Challenges
+### Code Challenge #1 - GitHub Repository Created
+### Code Challenge #2 - Calculator
